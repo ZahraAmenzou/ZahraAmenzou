@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I'm currently working on**  <br>Building cool full-stack projects with React, Node.js, and MongoDB. 🚀<br><br>🤝 **I'm looking to collaborate on**  <br>Creative projects that turn ideas into reality. 💡<br><br>🌱 **I'm currently learning**  <br>Java, improving my coding skills, and growing as a developer. 💻<br><br>💬 **Ask me about**  <br>Web development, JavaScript, and solving tricky bugs. 🐛<br><br>✨ **Fun fact**  <br>I don't give up on bugs — I debug until they surrender! 😎
+🔭 I'm currently working on  <br>Building cool full-stack projects with React, Node.js, and MongoDB. <br><br>🤝 I'm looking to collaborate on  <br>Creative projects that turn ideas into reality. <br><br>🌱 I'm currently learning  <br>Java, improving my coding skills, and growing as a developer. <br><br>💬  Ask me about  <br>Web development, JavaScript, and solving tricky bugs. <br><br>✨ Fun fact  <br>I don't give up on bugs — I debug until they surrender! 
 
 
 # 💻 Tech Stack:
